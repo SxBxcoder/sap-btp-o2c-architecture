@@ -33,8 +33,6 @@
 
 <br/>
 
-> *"This is not a student project. This is a production-grade enterprise O2C pipeline*
-> *that happens to be submitted for a capstone grade."*
 
 </div>
 
